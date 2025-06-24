@@ -1,8 +1,1 @@
-C++ problems./
-They are both ECE NTUA 1st year's assignments and problems I created myself based on university's syllabus./
-Main topics:/
--Data Structures/
--C++ STL/
--Object Oriented Programming (OOP)/
--Classes, Inheritance, getters/setters etc./
--Pointers
+C++ problems.<br/>They are both ECE NTUA 1st year's assignments and problems I created myself based on university's syllabus.<br/>Main topics:<br/>-Data Structures<br/>-C++ STL<br/>-Object Oriented Programming (OOP)<br/>-Classes, Inheritance, getters/setters etc.<br/>-Pointers
